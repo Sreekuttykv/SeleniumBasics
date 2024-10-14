@@ -1,0 +1,14 @@
+<suite name="myTestSuite">
+	<test name="myTest">
+		 <groups>
+			<run>
+				<exclude name="smoke"></exclude>
+			</run>
+		</groups> 
+		<classes>
+			
+			<class name="testCase.BasicTestCase"></class>
+		</classes>
+	</test>
+	
+</suite>

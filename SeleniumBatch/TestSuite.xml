@@ -1,0 +1,10 @@
+<suite name="myTestSuite">
+	<test name="myTest">
+		<classes>
+			<class name="testCase.BasicAnnotation"></class>
+			<class name="testCase.BasicTestCase"></class>
+			<class name="testCase.BeforeAfterMethod"></class>
+		</classes>
+	</test>
+	
+</suite>
